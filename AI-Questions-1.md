@@ -361,7 +361,7 @@ layout: exam
     - D. Outsourcing
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: C
     </details>
 
 37. Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments?
@@ -783,3 +783,226 @@ layout: exam
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
+
+79. What is the term for the monitoring of events both internal and external to the            organisation that affects strategy?
+    - A. Environmental scanning
+    - B. Strategic analysis
+    - C. Organizational surveillance
+    - D. Market research
+   
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+80. What are the three interpersonal roles of managers?
+    - A. Communicator, organiser, spokesperson
+    - B. Figurehead, leader and liaison
+    - C. Spokesperson, leader, coordinator
+    - D. Director, coordinator, disseminator
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+81. What is the personnel department in an organisation concerned with?
+    - A. Staff rewards
+    - B. Staff development
+    - C. Staff administration
+    - D. Staff attraction
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: C
+    </details>
+
+82. What are the key characteristics of transactional leaders?
+    - A. Guiding, mentoring and motivating
+    - B. Guiding, demonstrating and motivating
+    - C. Guiding, mentoring and demonstrating
+    - D. Guiding, commanding and motivating
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+
+83. According to Lewin, Lippet and White's 1939 experiment, which form of leadership produced the most work from participants?
+    - A. Democratic
+    - B. Laissez-faire
+    - C. A mix of laissez-faire and democratic
+    - D. Authoritarian
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+84. Which one of the following is not a characteristic of a bureaucratic organisation?
+    - A. Regulations
+    - B. Command structure
+    - C. Authority
+    - D. Change
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+85. Which one of these characteristics is most commonly associated with the 'rational goal' model of management?
+    - A. Productivity
+    - B. Health and safety
+    - C. Worker welfare
+    - D. Interpersonal relationships
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: A
+    </details>
+
+86. What is a definition of an objective?
+    - A. A set standard of performance agreed by workers and managers
+    - B. A defined specified outcome to be achieved in the long-term
+    - C. A clear set of goals to be attained given a set number of resources
+    - D. A clearly defined and measurable outcome to be achieved over a specified timeframe
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+87. What is T-group training?
+    - A. A group brought together to deliver training programmes
+    - B. Team building activities involving learning
+    - C. Team training for the purposes of advancing technology
+    - D. A group whose aim is transformational change
+   
+      <details markdown=1><summary markdown='span'>Answer</summary>
+          Correct answer: D
+      </details>
+
+88. Which is not a characteristic of corporate social responsibility?
+    - A. Environmental policies
+    - B. Price-fixing
+    - C. Consumer rights
+    - D. Product safety
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+89. Of what is an investment decision an example?
+    - A. Management decision
+    - B. Non-programmed decision
+    - C. Programmed decision
+    - D. Routine decision
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+90. Who of the following is a leading writer on contingency theory of leadership?
+    - A. Rosabeth Kanter
+    - B. Fred Fiedler
+    - C. Rensis Likert
+    - D. Joan Woodward
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+91. What is the term for a sub-optimal but acceptable outcome of negotiations between parties?
+    - A. Accepting
+    - B. Bargaining
+    - C. Compromising
+    - D. Satisficing
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+92. What do companies that focus on filling a gap in the market engage in?
+    - A. Direct marketing
+    - B. Niche marketing
+    - C. Traditional marketing
+    - D. Outbound marketing
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+93. What is a normative perspective?
+    - A. The way things are going to be
+    - B. The way things were
+    - C. The way things are
+    - D. The way things should be
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+94. Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy?
+    - A. Jay Barney
+    - B. Peter Drucker
+    - C. Henry Mintzberg
+    - D. Michael Porter
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+95. To what does authority refer?
+    - A. The ability to organise people
+    - B. The power to command and direct
+    - C. The right to change jobs
+    - D. The need for order
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+    </details>
+
+96. What is the guiding principle of scientific management?
+    - A. Freedom of association
+    - B. Fluid working relationships
+    - C. Experimentation
+    - D. One best way to do a job
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+97. What assumption is the garbage can model of decision making based on?
+    - A. Limited knowledge and great insight
+    - B. Limited knowledge and high risk
+    - C. Limited knowledge but high level of experience
+    - D. Limited knowledge and uncertainty
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+98. What is the term for the development and design of value adding products and/or services to meet the demand characteristics of individual customers?
+    - A. Bespoke
+    - B. Personalisation
+    - C. Individualism
+    - D. Customisation
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+99. What is the term for decisions limited by human capacity to absorb and analyse information?
+    - A. Conscious rationality
+    - B. Restricted rationality
+    - C. Cognitive rationality
+    - D. Bounded rationality
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+100. Consumer values based on personality types are a form of what type of brand value?
+    - A. Functional
+    - B. Core
+    - C. Individual
+    - D. Expressive
+
+     <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: D
+    </details>
+
+
