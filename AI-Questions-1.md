@@ -551,7 +551,7 @@ layout: exam
     - D. Merton
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: A
     </details>
 
 56. What is the first step in a control process?
